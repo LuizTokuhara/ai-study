@@ -1,0 +1,3 @@
+.env
+/llm/notebooks/vector_db
+/llm/notebooks/.gradio
