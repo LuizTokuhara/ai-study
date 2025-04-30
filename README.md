@@ -5,8 +5,8 @@ This repository contains a collection of small Artificial Intelligence projects 
 
 Each project resides in its own subdirectory and focuses on a specific AI technique or business problem. Below is a brief overview of the current projects:
 
-* **[`llm/`](llm/)**: A project dedicated to understanding and experimenting with Large Language Models (LLMs). This might involve using pre-trained models for tasks like text generation, summarization, or question answering, and exploring prompt engineering techniques.
-* **[`scraping/`](scraping/)**: A project focused on web scraping techniques to collect data from websites to extract relevant information for analysis.
+* **[`llm/`](llm/notebooks)**: A project dedicated to understanding and experimenting with Large Language Models (LLMs). This might involve using pre-trained models for tasks like text generation, summarization, or question answering, and exploring prompt engineering techniques.
+* **[`scraping/`](scraping/notebook)**: A project focused on web scraping techniques to collect data from websites to extract relevant information for analysis.
 
 More projects will be added soon 😁.
 
