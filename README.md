@@ -25,7 +25,7 @@ These projects are primarily for educational purposes and experimentation. They 
 - OpenAi API key
 - [WeatherAPI key](https://weatherapi.com)
 
-### Installation
+### Create the Conda Environment
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
