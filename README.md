@@ -5,9 +5,10 @@ This repository contains a collection of small Artificial Intelligence projects 
 
 Each project resides in its own subdirectory and focuses on a specific AI technique or business problem. Below is a brief overview of the current projects:
 
-* **[`LLM`](llm/notebooks)**: A project dedicated to understanding and experimenting with Large Language Models (LLMs). This might involve using pre-trained models for tasks like text generation, summarization, or question answering, and exploring prompt engineering techniques.
-* **[`Scraping/`](scraping/notebooks)**: A project focused on web scraping techniques to collect data from websites to extract relevant information for analysis.
-* **[`NLP`](nlp/notebooks)**: A project specifically focused on Natural Language Processing (NLP)..
+* **[`LLM`](llm/notebooks)**: Projects dedicated to understanding and experimenting with Large Language Models (LLMs). This might involve using pre-trained models for tasks like text generation, summarization, or question answering, and exploring prompt engineering techniques.
+* **[`Scraping/`](scraping/notebooks)**: Projects focused on web scraping techniques to collect data from websites to extract relevant information for analysis.
+* **[`NLP`](nlp/notebooks)**: Projects specifically focused on Natural Language Processing (NLP).
+* **[`neural-network/`](neural-network/notebooks)**: Projects exploring basic Neural Network architectures. This could involve implementing simple feedforward networks for classification or regression tasks using libraries like TensorFlow or PyTorch.
 
 More projects will be added soon 😁.
 
