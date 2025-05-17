@@ -107,8 +107,6 @@ dependencies:
       - gradio==5.29.0
       - gradio-client==1.10.0
       - groovy==0.1.2
-      - grpcio==1.72.0rc1
-      - grpcio-status==1.72.0rc1
       - h11==0.16.0
       - h5py==3.13.0
       - hf-xet==1.1.0
@@ -181,7 +179,7 @@ dependencies:
       - posthog==4.0.1
       - propcache==0.3.1
       - proto-plus==1.26.1
-      - protobuf==5.29.4
+      - protobuf>=3.20.2,<7.0.0
       - pyasn1==0.6.1
       - pyasn1-modules==0.4.2
       - pycparser==2.22
